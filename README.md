@@ -1,5 +1,8 @@
 # Project Customer Segmentation and Customer Lifetime Value
 
+![image](https://github.com/user-attachments/assets/9b85105b-542a-40cf-9e0b-8d06ac37c014)
+
+
 ## Project Description:
 
 - Customer segmentation and predictive analysis for a retail business using the "All U Need Mart" dataset.
